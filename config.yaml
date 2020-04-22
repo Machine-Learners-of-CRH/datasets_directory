@@ -1,0 +1,10 @@
+---
+from: gfm+emoji
+to: html5
+metadata:
+  title: Datasets Directory
+css: https://andybrewer.github.io/mvp/mvp.css
+output-file: index.html
+input-files:
+    - README.md
+template: template.html
