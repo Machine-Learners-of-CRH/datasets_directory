@@ -4,8 +4,10 @@
 
 [Here is a good definition and discussion of the term OPEN DATA](https://opendatahandbook.org/guide/en/what-is-open-data/)
 
-### [UCI Datasets](https://archive.ics.uci.edu/ml/datasets.php)
-> Description: 497 Open Data Sets maintained by UCI's Center for Machine Learning and Intelligent Systems.
+---
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+  
+   Works like Google search, excepts it searches through other dataset databases as well (including Kaggle, etc.)
 
 - [Kaggle](https://www.kaggle.com/)
   
