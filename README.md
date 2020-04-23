@@ -1,34 +1,50 @@
 # Data Sets :rocket:
 
-## What is "open data"? [Here is a good definition and discussion of the term OPEN DATA](https://opendatahandbook.org/guide/en/what-is-open-data/)
+**What is "open data"?** 
 
-### [Kaggle](https://www.kaggle.com/)
-> Description: An enormous community-based collection of data sets and data projects; an important resource for ML.
+[Here is a good definition and discussion of the term OPEN DATA](https://opendatahandbook.org/guide/en/what-is-open-data/)
 
-### [UCI Datasets](https://archive.ics.uci.edu/ml/datasets.php)
-> Description: 497 Open Data Sets maintained by UCI's Center for Machine Learning and Intelligent Systems.
+---
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+  
+   Works like Google search, excepts it searches through other dataset databases as well (including Kaggle, etc.)
 
-### [OpenData AWS](https://registry.opendata.aws/)
-> Description: These are open data sets available on AWS.  "This registry exists to help people discover and share datasets that are available via AWS resources... See datasets from Facebook Data for Good, NASA Space Act Agreement, NIH STRIDES, NOAA Big Data Project, and Space Telescope Science Institute."
+- [Kaggle](https://www.kaggle.com/)
+  
+   An enormous community-based collection of data sets and data projects; an important resource for ML.
 
-### [Data Portals](http://dataportals.org/)
-> Description: Maintained by the Open Knowledge Foundation, good, free data sets. "A Comprehensive List of Open Data Portals from Around the World."
+- [UCI Datasets](https://archive.ics.uci.edu/ml/datasets.php)
+  
+   497 Open Data Sets maintained by UCI's Center for Machine Learning and Intelligent Systems.
 
-### [Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
-> Description: A good, community-updated list.
+- [OpenData AWS](https://registry.opendata.aws/)
+  
+   These are open data sets available on AWS.  "This registry exists to help people discover and share datasets that are available via AWS resources... See datasets from Facebook Data for Good, NASA Space Act Agreement, NIH STRIDES, NOAA Big Data Project, and Space Telescope Science Institute."
 
-##### [Open Data Monitor](https://opendatamonitor.eu/frontend/web/index.php)
-> Also connected to the Open Knowledge Foundation.
+- [Data Portals](http://dataportals.org/)
+  
+   Maintained by the Open Knowledge Foundation, good, free data sets. "A Comprehensive List of Open Data Portals from Around the World."
 
-## Other Data Resources
+- [Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
+  
+   A good, community-updated list.
 
-#### [Quandl](https://www.quandl.com/)
-> Description: "Quandl delivers market data from hundreds of sources via API, or directly into Python, R, Excel and many other tools." Careful --this is NOT Open Date, they charge $$ for some.
+- [Open Data Monitor](https://opendatamonitor.eu/frontend/web/index.php)
+  
+   Also connected to the Open Knowledge Foundation.
 
-#### [IMF Global Financial Data](https://www.imf.org/external/pubs/ft/weo/2016/01/weodata/download.aspx)
+---
 
-#### [OECD Better Life Index](https://stats.oecd.org/Index.aspx?DataSetCode=BLI)
+# Other Data Resources
 
-#### [Quora List](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+- [Quandl](https://www.quandl.com/)
+  
+   "Quandl delivers market data from hundreds of sources via API, or directly into Python, R, Excel and many other tools." Careful --this is NOT Open Date, they charge $$ for some.
 
-#### [Reddit List](https://www.reddit.com/r/datasets/)
+- [IMF Global Financial Data](https://www.imf.org/external/pubs/ft/weo/2016/01/weodata/download.aspx)
+
+- [OECD Better Life Index](https://stats.oecd.org/Index.aspx?DataSetCode=BLI)
+
+- [Quora List](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+
+- [Reddit List](https://www.reddit.com/r/datasets/)
