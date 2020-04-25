@@ -1,13 +1,20 @@
-# Data Sets :rocket:
+# Datasets :rocket:
+
+---
 
 **What is "open data"?** 
 
 [Here is a good definition and discussion of the term OPEN DATA](https://opendatahandbook.org/guide/en/what-is-open-data/)
 
 ---
+
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
   
    Works like Google search, excepts it searches through other dataset databases as well (including Kaggle, etc.)
+   
+- [Google Created Datasets](https://research.google/tools/datasets/)
+  
+   This is a great, diverse collection of open datasets made by various teams at Google (more than 2K people involved!).
 
 - [Kaggle](https://www.kaggle.com/)
   
@@ -19,7 +26,7 @@
 
 - [OpenData AWS](https://registry.opendata.aws/)
   
-   These are open data sets available on AWS.  "This registry exists to help people discover and share datasets that are available via AWS resources... See datasets from Facebook Data for Good, NASA Space Act Agreement, NIH STRIDES, NOAA Big Data Project, and Space Telescope Science Institute."
+   These are open datasets available on AWS.  "This registry exists to help people discover and share datasets that are available via AWS resources... See datasets from Facebook Data for Good, NASA Space Act Agreement, NIH STRIDES, NOAA Big Data Project, and Space Telescope Science Institute."
 
 - [Data Portals](http://dataportals.org/)
   
@@ -32,7 +39,7 @@
 - [Open Data Monitor](https://opendatamonitor.eu/frontend/web/index.php)
   
    Also connected to the Open Knowledge Foundation.
-
+   
 ---
 
 # Other Data Resources
