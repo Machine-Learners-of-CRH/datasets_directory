@@ -4,7 +4,8 @@
 
 **What is "open data"?** 
 
-[Here is a good definition and discussion of the term OPEN DATA](https://opendatahandbook.org/guide/en/what-is-open-data/)
+[Here is a good definition and discussion](https://opendatahandbook.org/guide/en/what-is-open-data/)
+[Wikipedia entry for "Open Data"](https://en.wikipedia.org/wiki/Open_data)
 
 ---
 
