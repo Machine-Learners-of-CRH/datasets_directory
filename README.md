@@ -16,6 +16,10 @@
   
    This is a great, diverse collection of open datasets made by various teams at Google (more than 2K people involved!).
 
+- [TFDS: Tensorflow Datasets](https://www.tensorflow.org/datasets/catalog/overview)
+  
+   A collection of ready-to-use datasets for TF2.     
+
 - [Kaggle](https://www.kaggle.com/)
   
    An enormous community-based collection of data sets and data projects; an important resource for ML.
