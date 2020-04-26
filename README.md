@@ -46,6 +46,10 @@
   
    Also connected to the Open Knowledge Foundation.
    
+- [The Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
+  
+   Excellent open dataset of labelled cats and dogs.   
+   
 ---
 
 # Other Data Resources
